@@ -1,8 +1,8 @@
-### LilHomie - Housing Price Prediction Rapid Prototype
+### "Find a House" Price Prediction Project - Housing Price Prediction Rapid Prototype
 
 ### Author: [(EJ) Yashika Behl](https://www.linkedin.com/in/yashika-behl-918611202/)
 
-LilHomie is a rapid prototyping project that aims to generate housing appraisals to determine values of properties in the New York Tri-state Area. 
+Find a House is a rapid prototyping project that aims to generate housing appraisals to determine values of properties in the New York Tri-state Area. 
 
 This repository contains all the associated work that has been done for the area which includes:
 * Web Crawler to gather housing data
